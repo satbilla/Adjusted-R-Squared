@@ -3,9 +3,13 @@ The adjusted R-squared is a modified version of R-squared that has been adjusted
 
 Example Details:
 
-About: Cement Data
+we will use the cement data to illustrate use of the criteria. Therefore, let's quickly review—the researchers measured and recorded the following data (cement.txt) on 13 batches of cement:
+
 Response y: heat evolved in calories during hardening of cement on a per gram basis
 Predictor x1: % of tricalcium aluminate 
 Predictor x2: % of tricalcium silicate 
 Predictor x3: % of tetracalcium alumino ferrite 
 Predictor x4: % of dicalcium silicate 
+
+Reference:
+https://onlinecourses.science.psu.edu/stat501/node/330/
